@@ -1,8 +1,13 @@
 README
+
 AUTHOR
+
 Dionta Mason
+
 dion.mason14@yahoo.com or d-mason@wiu.edu
-# cs492JUnit
+
+#cs492JUnit
+
 A set of programs that tests calculations
 
 Calculation - Class that houses the arithmetic for subtraction, addition, multiplication, and division
