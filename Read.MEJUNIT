@@ -1,0 +1,24 @@
+
+Element	Markdown Syntax
+Table	| Syntax | This is a lab that helps us familiarize with junit testing.  |
+| ----------- | ----------- |
+| Header | Lab 02 |
+| Paragraph | Text |
+Fenced Code Block	```
+{
+    "firstName": "Dionta",
+  "lastName": "Mason",
+  "age": 21
+}
+```
+Footnote	Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+Heading ID	### My Great Heading {#custom-id}
+Definition List	term
+: definition
+Strikethrough	~~The world is flat.~~
+Task List	- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+git push -u origin master
